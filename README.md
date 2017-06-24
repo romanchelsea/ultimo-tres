@@ -8,7 +8,7 @@
 
 Ultimo Tres is going to be one of the best soccer game data visualization platform.
 
-## architecture
+## Architecture
 
 ### Data Collection
 The data collection workflow will be done with scripts which invokes service calls to a NodeJS application.
